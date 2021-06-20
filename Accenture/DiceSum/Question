@@ -1,0 +1,9 @@
+You are given 2 unbiased dice containing 6 faces each.And also you are given with a "sum" which should be obtained by throwing those two dice at same time.You have to print the number of possibilites where the sum of both dice is equal to output sum.If there are no possibilites return zero.
+
+FOR EXAMPLE:
+
+INPUT:
+10
+
+OUTPUT:
+3
