@@ -7,3 +7,6 @@ INPUT:
 
 OUTPUT:
 3
+
+Explaination:
+possible outcomes with sum 10 are (5,5),(6,4),(4,6)
