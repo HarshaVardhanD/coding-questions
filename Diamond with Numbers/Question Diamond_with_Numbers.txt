@@ -1,1 +1,26 @@
+output the following pattern with an input where a number is given
 
+
+input:
+1
+output:
+1
+
+
+input:
+2
+output:
+ 1
+121
+ 1
+ 
+
+input:
+3
+output:
+  1
+ 121
+12321
+ 121
+  1
+  
