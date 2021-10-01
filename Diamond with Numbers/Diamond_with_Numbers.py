@@ -1,4 +1,3 @@
-
 limit=int(input())
 #first half
 for i in range(1,limit+1):
